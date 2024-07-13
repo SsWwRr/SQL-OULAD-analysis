@@ -1,6 +1,7 @@
 # SQL-OULAD-analysis
 # QUERIES:
 (List of all queries, answers are saved in the comments of the sql code)
+
 QUERY 1: Count the number of unique modules (courses).
 
 QUERY 2: Calculate the length of each module-presentation in days.
