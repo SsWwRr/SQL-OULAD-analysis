@@ -48,3 +48,5 @@ QUERY 18: Compare student performance between B and J presentations for modules 
 
 QUERY 19: Analyze how availability and usage of VLE materials impact student performance in assessments.
 
+(Note: The studyvle.csv file is not in the databases folder because it's too big to be imported to github but it's available for the download at the acknowledgment link i provided above)
+
