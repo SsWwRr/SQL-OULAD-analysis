@@ -1,6 +1,6 @@
 # SQL-OULAD-analysis
 # QUERIES:
-(List of all queries, answers are saved in the comments of the sql code)
+(List of all queries,for the more complicated queries answers are saved in the comments of the sql code)
 
 QUERY 1: Count the number of unique modules (courses).
 
