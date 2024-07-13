@@ -1,4 +1,11 @@
 # SQL-OULAD-analysis
+# INTRODUCTION:
+# This project analyzes Online University Learning Analytics Data showcasing my abilities in using PostgreSQL (focusing mainly on CTE's and window functions).
+
+# Database Schema:
+![image](https://github.com/user-attachments/assets/b983ee84-47c9-416f-b4f9-ebe55e2814e9)
+Acknowledgment: 
+https://www.kaggle.com/datasets/mexwell/open-university-learning-analytics - for providing the database
 # QUERIES:
 (List of all queries,for the more complicated queries answers are saved in the comments of the sql code)
 
