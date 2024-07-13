@@ -4,6 +4,7 @@
 
 # Database Schema:
 ![image](https://github.com/user-attachments/assets/b983ee84-47c9-416f-b4f9-ebe55e2814e9)
+
 Acknowledgment: 
 https://www.kaggle.com/datasets/mexwell/open-university-learning-analytics - for providing the database
 # QUERIES:
