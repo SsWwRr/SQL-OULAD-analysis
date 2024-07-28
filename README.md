@@ -6,7 +6,7 @@
 | ----------------- | ------------ |
 | SQL/PostgreSQL | Complex Window functions, CTE's, data manipulation, data creation |
 | PgAdmin4 | Database creation, Data type manipulation |
-| Exccel | Data manipulation |
+| Excel | Data manipulation |
 # Database Schema:
 ![image](https://github.com/user-attachments/assets/b983ee84-47c9-416f-b4f9-ebe55e2814e9)
 
