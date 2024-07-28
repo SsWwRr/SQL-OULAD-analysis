@@ -2,6 +2,10 @@
 # INTRODUCTION:
 # This project analyzes Online University Learning Analytics Data showcasing my abilities in using PostgreSQL (focusing mainly on CTE's and window functions).
 
+|TECHNOLOGIES USED|SKILLS USED|
+|-----------------------------|
+|A                |           |
+
 # Database Schema:
 ![image](https://github.com/user-attachments/assets/b983ee84-47c9-416f-b4f9-ebe55e2814e9)
 
